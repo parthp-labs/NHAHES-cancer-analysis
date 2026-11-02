@@ -1,0 +1,344 @@
+{
+    "SEQN": {
+        "name": "Participant ID",
+        "description": "Respondent sequence number.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "RIAGENDR": {
+        "name": "Sex",
+        "description": "Gender.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "RIDAGEYR": {
+        "name": "Age",
+        "description": "Age in years.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "RIDRETH1": {
+        "name": "Race/Ethnicity",
+        "description": "Race / ethnicity.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "INDFMPIR": {
+        "name": "Income-to-Poverty Ratio",
+        "description": "Family income-to-poverty ratio.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "MCQ220": {
+        "name": "Cancer History",
+        "description": "Reported history of cancer.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "SMQ020": {
+        "name": "Ever Smoked",
+        "description": "Ever smoked 100 or more cigarettes.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "SMQ040": {
+        "name": "Current Smoking",
+        "description": "Current smoking status.",
+        "missing_values": 2889,
+        "missing_proportion": 56.41476274165203
+    },
+    "ALQ101": {
+        "name": "Alcohol Use History",
+        "description": "History of alcohol consumption.",
+        "missing_values": 380,
+        "missing_proportion": 7.420425698105839
+    },
+    "ALQ120Q": {
+        "name": "Alcohol Frequency",
+        "description": "Alcohol consumption frequency.",
+        "missing_values": 1097,
+        "missing_proportion": 21.421597344268697
+    },
+    "ALQ120U": {
+        "name": "Alcohol Frequency Unit",
+        "description": "Unit associated with the alcohol consumption frequency or quantity.",
+        "missing_values": 1893,
+        "missing_proportion": 36.96543643819567
+    },
+    "PAQ650": {
+        "name": "Vigorous Activity",
+        "description": "Vigorous recreational activity.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "PAQ620": {
+        "name": "Moderate Work Activity",
+        "description": "Moderate work-related activity.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "PAQ635": {
+        "name": "Walking/Cycling Activity",
+        "description": "Walking / bicycling for transportation.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "BMXBMI": {
+        "name": "BMI",
+        "description": "Body Mass Index.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "BMXWAIST": {
+        "name": "Waist Circumference",
+        "description": "Waist circumference.",
+        "missing_values": 220,
+        "missing_proportion": 4.2960359304823275
+    },
+    "BMXWT": {
+        "name": "Body Weight",
+        "description": "Body weight.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "BMXHT": {
+        "name": "Height",
+        "description": "Standing height.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "BPXPLS": {
+        "name": "Pulse Rate",
+        "description": "Pulse rate.",
+        "missing_values": 1,
+        "missing_proportion": 0.019527436047646944
+    },
+    "DR1TKCAL": {
+        "name": "Energy Intake",
+        "description": "Energy intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TPROT": {
+        "name": "Protein Intake",
+        "description": "Protein intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TCARB": {
+        "name": "Carbohydrate Intake",
+        "description": "Carbohydrate intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TSUGR": {
+        "name": "Sugar Intake",
+        "description": "Total sugar intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TFIBE": {
+        "name": "Fiber Intake",
+        "description": "Dietary fibre intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TTFAT": {
+        "name": "Total Fat",
+        "description": "Total fat intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TSFAT": {
+        "name": "Saturated Fat",
+        "description": "Saturated fat intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TCHOL": {
+        "name": "Cholesterol Intake",
+        "description": "Cholesterol intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TALCO": {
+        "name": "Dietary Alcohol",
+        "description": "Alcohol intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "DR1TCAFF": {
+        "name": "Caffeine Intake",
+        "description": "Caffeine intake.",
+        "missing_values": 400,
+        "missing_proportion": 7.810974419058778
+    },
+    "LBXSGL": {
+        "name": "Blood Glucose",
+        "description": "Blood glucose.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXGH": {
+        "name": "HbA1c",
+        "description": "HbA1c.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXSCH": {
+        "name": "Total Cholesterol",
+        "description": "Total cholesterol.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBDHDD": {
+        "name": "HDL Cholesterol",
+        "description": "HDL cholesterol.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBDLDL": {
+        "name": "LDL Cholesterol",
+        "description": "LDL cholesterol.",
+        "missing_values": 2718,
+        "missing_proportion": 53.075571177504386
+    },
+    "LBXTR": {
+        "name": "Triglycerides",
+        "description": "Triglycerides.",
+        "missing_values": 2679,
+        "missing_proportion": 52.31400117164616
+    },
+    "LBXSATSI": {
+        "name": "ALT",
+        "description": "ALT.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXSASSI": {
+        "name": "AST",
+        "description": "AST.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXSGTSI": {
+        "name": "GGT",
+        "description": "GGT.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXSCR": {
+        "name": "Creatinine",
+        "description": "Creatinine.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXSUA": {
+        "name": "Uric Acid",
+        "description": "Uric acid.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBDSALSI": {
+        "name": "Albumin",
+        "description": "Albumin.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXLYPCT": {
+        "name": "Lymphocyte %",
+        "description": "Lymphocyte percentage.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "LBXNEPCT": {
+        "name": "Neutrophil %",
+        "description": "Neutrophil percentage.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "RXDCOUNT": {
+        "name": "Prescription Count",
+        "description": "Number of prescription medicines.",
+        "missing_values": 2,
+        "missing_proportion": 0.03905487209529389
+    },
+    "RXDUSE": {
+        "name": "Prescription Use",
+        "description": "Prescription medicine use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Antihypertensive_Use": {
+        "name": "Antihypertensive Use",
+        "description": "Antihypertensive medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Lipid_Lowering_Use": {
+        "name": "Lipid-Lowering Use",
+        "description": "Lipid-lowering medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Antidiabetic_Use": {
+        "name": "Antidiabetic Use",
+        "description": "Antidiabetic medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Thyroid_Medication_Use": {
+        "name": "Thyroid Medication Use",
+        "description": "Thyroid medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Respiratory_Medication_Use": {
+        "name": "Respiratory Medication Use",
+        "description": "Respiratory medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Antidepressant_Use": {
+        "name": "Antidepressant Use",
+        "description": "Antidepressant medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Anticoagulant_Antiplatelet_Use": {
+        "name": "Anticoagulant/Antiplatelet Use",
+        "description": "Anticoagulant / antiplatelet use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "GI_Medication_Use": {
+        "name": "GI Medication Use",
+        "description": "Gastrointestinal medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Analgesic_Use": {
+        "name": "Analgesic Use",
+        "description": "Analgesic medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "Antibiotic_Use": {
+        "name": "Antibiotic Use",
+        "description": "Antibiotic medication use.",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "SBP_mean": {
+        "name": "Mean Systolic Blood Pressure",
+        "description": "Mean of available systolic blood pressure readings (mmHg).",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    },
+    "DBP_mean": {
+        "name": "Mean Diastolic Blood Pressure",
+        "description": "Mean of available diastolic blood pressure readings (mmHg).",
+        "missing_values": 0,
+        "missing_proportion": 0.0
+    }
+}
