@@ -98,8 +98,8 @@
     "BMXWT": {
         "name": "Body Weight",
         "description": "Body weight.",
-        "missing_values": 0,
-        "missing_proportion": 0.0
+        "missing_values": 36,
+        "missing_proportion": 0.7029876977152899
     },
     "BMXHT": {
         "name": "Height",
