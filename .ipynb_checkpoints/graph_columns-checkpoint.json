@@ -1,0 +1,230 @@
+{
+    "SEQN": {
+        "name": "Participant ID",
+        "description": "Respondent sequence number."
+    },
+    "RIAGENDR": {
+        "name": "Sex",
+        "description": "Gender."
+    },
+    "RIDAGEYR": {
+        "name": "Age",
+        "description": "Age in years."
+    },
+    "RIDRETH1": {
+        "name": "Race/Ethnicity",
+        "description": "Race / ethnicity."
+    },
+    "INDFMPIR": {
+        "name": "Income-to-Poverty Ratio",
+        "description": "Family income-to-poverty ratio."
+    },
+    "MCQ220": {
+        "name": "Cancer History",
+        "description": "Reported history of cancer."
+    },
+    "SMQ020": {
+        "name": "Ever Smoked",
+        "description": "Ever smoked 100 or more cigarettes."
+    },
+    "SMQ040": {
+        "name": "Current Smoking",
+        "description": "Current smoking status."
+    },
+    "SMD650": {
+        "name": "Cigarettes per Day",
+        "description": "Cigarettes smoked per day."
+    },
+    "ALQ101": {
+        "name": "Alcohol Use History",
+        "description": "History of alcohol consumption."
+    },
+    "ALQ120Q": {
+        "name": "Alcohol Frequency",
+        "description": "Alcohol consumption frequency."
+    },
+    "PAQ650": {
+        "name": "Vigorous Activity",
+        "description": "Vigorous recreational activity."
+    },
+    "PAQ620": {
+        "name": "Moderate Work Activity",
+        "description": "Moderate work-related activity."
+    },
+    "PAQ635": {
+        "name": "Walking/Cycling Activity",
+        "description": "Walking / bicycling for transportation."
+    },
+    "BMXBMI": {
+        "name": "BMI",
+        "description": "Body Mass Index."
+    },
+    "BMXWAIST": {
+        "name": "Waist Circumference",
+        "description": "Waist circumference."
+    },
+    "BPXSY1": {
+        "name": "Systolic BP",
+        "description": "Systolic blood pressure."
+    },
+    "BPXDI1": {
+        "name": "Diastolic BP",
+        "description": "Diastolic blood pressure."
+    },
+    "BPXPLS": {
+        "name": "Pulse Rate",
+        "description": "Pulse rate."
+    },
+    "BMXWT": {
+        "name": "Body Weight",
+        "description": "Body weight."
+    },
+    "BMXHT": {
+        "name": "Height",
+        "description": "Standing height."
+    },
+    "DR1TKCAL": {
+        "name": "Energy Intake",
+        "description": "Energy intake."
+    },
+    "DR1TPROT": {
+        "name": "Protein Intake",
+        "description": "Protein intake."
+    },
+    "DR1TCARB": {
+        "name": "Carbohydrate Intake",
+        "description": "Carbohydrate intake."
+    },
+    "DR1TSUGR": {
+        "name": "Sugar Intake",
+        "description": "Total sugar intake."
+    },
+    "DR1TFIBE": {
+        "name": "Fiber Intake",
+        "description": "Dietary fibre intake."
+    },
+    "DR1TTFAT": {
+        "name": "Total Fat",
+        "description": "Total fat intake."
+    },
+    "DR1TSFAT": {
+        "name": "Saturated Fat",
+        "description": "Saturated fat intake."
+    },
+    "DR1TCHOL": {
+        "name": "Cholesterol Intake",
+        "description": "Cholesterol intake."
+    },
+    "DR1TALCO": {
+        "name": "Dietary Alcohol",
+        "description": "Alcohol intake."
+    },
+    "DR1TCAFF": {
+        "name": "Caffeine Intake",
+        "description": "Caffeine intake."
+    },
+    "LBXSGL": {
+        "name": "Blood Glucose",
+        "description": "Blood glucose."
+    },
+    "LBXGH": {
+        "name": "HbA1c",
+        "description": "HbA1c."
+    },
+    "LBXSCH": {
+        "name": "Total Cholesterol",
+        "description": "Total cholesterol."
+    },
+    "LBDHDD": {
+        "name": "HDL Cholesterol",
+        "description": "HDL cholesterol."
+    },
+    "LBDLDL": {
+        "name": "LDL Cholesterol",
+        "description": "LDL cholesterol."
+    },
+    "LBXTR": {
+        "name": "Triglycerides",
+        "description": "Triglycerides."
+    },
+    "LBXSATSI": {
+        "name": "ALT",
+        "description": "ALT."
+    },
+    "LBXSASSI": {
+        "name": "AST",
+        "description": "AST."
+    },
+    "LBXSGTSI": {
+        "name": "GGT",
+        "description": "GGT."
+    },
+    "LBXSCR": {
+        "name": "Creatinine",
+        "description": "Creatinine."
+    },
+    "LBXSUA": {
+        "name": "Uric Acid",
+        "description": "Uric acid."
+    },
+    "LBDSALSI": {
+        "name": "Albumin",
+        "description": "Albumin."
+    },
+    "LBXLYPCT": {
+        "name": "Lymphocyte %",
+        "description": "Lymphocyte percentage."
+    },
+    "LBXNEPCT": {
+        "name": "Neutrophil %",
+        "description": "Neutrophil percentage."
+    },
+    "RXDCOUNT": {
+        "name": "Prescription Count",
+        "description": "Number of prescription medicines."
+    },
+    "RXDUSE": {
+        "name": "Prescription Use",
+        "description": "Prescription medicine use."
+    },
+    "Antihypertensive_Use": {
+        "name": "Antihypertensive Use",
+        "description": "Antihypertensive medication use."
+    },
+    "Lipid_Lowering_Use": {
+        "name": "Lipid-Lowering Use",
+        "description": "Lipid-lowering medication use."
+    },
+    "Antidiabetic_Use": {
+        "name": "Antidiabetic Use",
+        "description": "Antidiabetic medication use."
+    },
+    "Thyroid_Medication_Use": {
+        "name": "Thyroid Medication Use",
+        "description": "Thyroid medication use."
+    },
+    "Respiratory_Medication_Use": {
+        "name": "Respiratory Medication Use",
+        "description": "Respiratory medication use."
+    },
+    "Antidepressant_Use": {
+        "name": "Antidepressant Use",
+        "description": "Antidepressant medication use."
+    },
+    "Anticoagulant_Antiplatelet_Use": {
+        "name": "Anticoagulant/Antiplatelet Use",
+        "description": "Anticoagulant / antiplatelet use."
+    },
+    "GI_Medication_Use": {
+        "name": "GI Medication Use",
+        "description": "Gastrointestinal medication use."
+    },
+    "Analgesic_Use": {
+        "name": "Analgesic Use",
+        "description": "Analgesic medication use."
+    },
+    "Antibiotic_Use": {
+        "name": "Antibiotic Use",
+        "description": "Antibiotic medication use."
+    }
+}
